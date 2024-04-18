@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gan Lau</h1>
+<h1 align="center">Hi 👋, I'm Lau</h1>
 <h3 align="center">A passionate game developer from Guangzhou, China</h3>
 
 - 🔭 I’m currently working on [OphthNeRF](https://github.com/GanLiuuuu/OphthNeRF)
