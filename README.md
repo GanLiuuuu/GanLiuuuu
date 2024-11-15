@@ -5,7 +5,7 @@
 
 - 🌱 I’m an undergraduate student in **SUSTech**
 
-- 💬 Ask me about **C#, Unity!**
+- 💬  **C#, Unity!**
 
 - 📫 How to reach me **12210729@mail.sustech.edu.cn**
 
