@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Lau</h1>
 <h3 align="center">A Business Analyst specializing in Data Visualization at WeGo</h3>
 
-- 🔭 I'm currently working as a **Business Analyst** at WeGo
+-  I'm currently working as a **Business Analyst** at WeGo
 
 - 📊 Passionate about transforming complex data into meaningful insights
 
-- 💡 Expertise in **Data Visualization, Business Intelligence, and Analytics**
+- 💡 Working in **Data Visualization, Business Intelligence, and Analytics**
 
 - 🎮 Background in Game Development with experience in **Unity and C#**
 
-- 📫 How to reach me **12210729@mail.sustech.edu.cn**
+- 📫 How to reach me **liugan@wego.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -27,26 +27,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
     </a>
     
-    <!-- Databases -->
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-    </a>
-    
-    <!-- Programming Languages -->
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    
-    <!-- Development Tools -->
-    <a href="https://unity.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-    </a>
+
 </p>
 
 <!-- GitHub Stats -->
