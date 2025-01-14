@@ -9,7 +9,7 @@
 
 - 🎮 Background in Game Development with experience in **Unity and C#**
 
-- 📫 How to reach me **liugan@wego.com**
+- 📫 How to reach me: **liugan@wego.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
