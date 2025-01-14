@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lau</h1>
+<h1 align="center">你好！I'm Liu</h1>
 <h3 align="center">A Business Analyst specializing in Data Visualization at WeGo</h3>
 
 -  I'm currently working as a **Business Analyst** at WeGo
