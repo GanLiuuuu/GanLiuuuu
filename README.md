@@ -1,15 +1,17 @@
-<h1 align="center">你好！I'm Liu</h1>
-<h3 align="center">A Business Analyst specializing in Data Visualization at WeGo</h3>
+### Hello there 👋
 
--  I'm currently working as a **Business Analyst** at WeGo
+#### A Business Analyst by day ☼ and a Web Developer by night ☾
 
-- 📊 Passionate about transforming complex data into meaningful insights
+Business Analyst at [WeGo](https://wego.com);<br>
+Building web applications with Next.js & Vue in my free time;<br>
+Specializing in Data Visualization & Business Intelligence;<br>
 
-- 💡 Working in **Data Visualization, Business Intelligence, and Analytics**
-
-- 🎮 Background in Game Development with experience in **Unity and C#**
-
-- 📫 How to reach me: **liugan@wego.com**
+- 📊 I use daily: `Python`, `Tableau`, `PowerBI`, `SQL`, `Pandas`
+- 🌐 I code with: `Next.js`, `Vue`, `JavaScript`, `TypeScript`
+- 🎯 I'm mostly active within the **Data Analytics** & **Web Dev Communities**
+- 💡 Passionate about: **data visualization**, **web development**, **analytics**, **UI/UX**
+- 🎮 Background in **Game Development** with Unity and C#
+- 📫 Reach me at **liugan@wego.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -26,8 +28,6 @@
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
     </a>
-    
-
 </p>
 
 <!-- GitHub Stats -->
