@@ -31,10 +31,10 @@ Specializing in Data Visualization & Business Intelligence;<br>
 </p>
 
 <!-- GitHub Stats -->
-<div align="center">
+<!-- <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ganliuuuu&show_icons=true&locale=en&layout=compact&theme=dracula" alt="ganliuuuu" />
     <img src="https://github-readme-stats.vercel.app/api?username=ganliuuuu&show_icons=true&locale=en&theme=dracula" alt="ganliuuuu" />
-</div>
+</div> -->
 
 <!-- Profile Views Counter -->
 <p align="center">
